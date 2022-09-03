@@ -1,5 +1,5 @@
 # Лев Толстой
-<img src="/Users/evgenyignatyev/Desktop/Me/rb.png">
+![rb](https://user-images.githubusercontent.com/112691360/188281055-6c2c3116-7a34-47c4-8e9d-60eb6695a842.png)
 
 ## Годы жизни:
 09 сентября 1828 — 20 ноября 1910
@@ -7,3 +7,4 @@
 Российская империя
 ## Сфера деятельности: 
 Писатель, Поэт
+
